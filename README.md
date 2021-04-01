@@ -8,7 +8,10 @@
 
 # SQLite ile Basit Personel Kayıt Uygulaması
 
-Kullanıcı konsol üzerinden personelin ad, soyad ve maaş bilgilerini girer. Veriler, veritabanına aktarılır. Veriler üzerinde "CREATE","READ","UPDATE","DELETE" işlemleri yapılabilir.Veritabanı, DB Browser(SQLite) üzerinden görünütülenebilir.
+<section>
+  Kullanıcı konsol üzerinden personelin ad, soyad ve maaş bilgilerini girer. Veriler, veritabanına aktarılır. Veriler üzerinde "CREATE","READ","UPDATE","DELETE" işlemleri         yapılabilir.Veritabanı, DB Browser(SQLite) üzerinden görünütülenebilir.
+</section>
+
 <img src="https://i.hizliresim.com/vLKT26.jpg" width="18%">
 <img src="https://i.hizliresim.com/2IjAFz.jpg">
 
