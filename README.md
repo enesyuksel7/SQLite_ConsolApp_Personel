@@ -13,7 +13,7 @@
 </section>
 
 <div>
-  <img src="https://i.hizliresim.com/vLKT26.jpg" width="15%">
+  <img src="https://i.hizliresim.com/vLKT26.jpg" width="18%">
   <img src="https://i.hizliresim.com/2IjAFz.jpg">
 </div>
 
